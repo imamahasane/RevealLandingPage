@@ -3165,8 +3165,8 @@ textarea.form-control-lg {
 }
 
 .btn-outline-secondary {
-  --bs-btn-color: #6c757d;
-  --bs-btn-border-color: #6c757d;
+  --bs-btn-color: white;
+  --bs-btn-border-color: white;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #6c757d;
   --bs-btn-hover-border-color: #6c757d;
@@ -8544,7 +8544,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #0c2e8a !important;
 }
 
 .bg-secondary {
